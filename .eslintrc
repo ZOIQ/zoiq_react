@@ -1,0 +1,10 @@
+{
+  "plugins": ["react"],
+  "extends": [
+    "eslint:all",
+    "plugin:react/all",
+    "prettier",
+    "airbnb",
+    "airbnb/hooks"
+  ]
+}
